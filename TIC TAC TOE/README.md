@@ -11,7 +11,7 @@ Keep the terminal open while playing. Press Ctrl+C in the terminal when you want
 ``` Project layout ```
 
 index.html — Page structure and audio elements.
-css/style.css — The game's visual design and responsive styling.
+css/style.css — The game''s visual design and responsive styling.
 js/game.js — Board state, turns, winner checks, draws, and scores.
 js/ai.js — CPU move strategy.
 js/ui.js — Board rendering, screen changes, scoreboard, and result overlay.
